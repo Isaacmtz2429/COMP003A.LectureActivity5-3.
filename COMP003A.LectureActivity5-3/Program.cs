@@ -26,7 +26,7 @@ namespace COMP003A.LectureActivity5_3_
         {
             Console.WriteLine($"Shape: {Name}");
         }
-        static void Main(string[] args)
+        
         {
             Console.WriteLine("");
         }
